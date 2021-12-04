@@ -17,4 +17,4 @@ Colaboradores: Inicialmente o Grupo era composto por 5 membros. Entretanto o gru
 
 Kanban: https://1drv.ms/u/s!AqToD8FMiyjxzAOch1WK8phCoDqI?e=lmC1wk
 Diagrama de caso de uso: https://1drv.ms/u/s!AqToD8FMiyjxzARRbMwtgZqcrQOy?e=g2683a
-Diagrama de Classes:
+Diagrama de Classes: https://1drv.ms/u/s!AqToD8FMiyjxzAWn8ntYMs_GKQye?e=h0qNap
